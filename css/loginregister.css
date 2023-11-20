@@ -1,0 +1,36 @@
+body {
+    /* background-color: #252525; */
+    background-image: url('../img/registerbg.png');
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.226);
+}
+
+.login-container h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    color: #0c0c0c;
+}
+
+.btn-login {
+    background-color: #0c0c0c;
+    color: #fff;
+    width: 100%;
+}
+
+.btn-link {
+    text-decoration: none;
+}
+
+
+
+
+
